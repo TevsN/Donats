@@ -1,0 +1,19 @@
+/* .div {
+    display: inline-block;
+    min-width: 40vmin;
+    min-height: 40vmin;
+    background-color: black;
+    border: 10px solid royalblue;
+    color: white;
+    text-align: center;
+} */
+
+td {
+    border: 1px solid hotpink;
+}
+
+*{
+margin: 0;
+box-sizing: border-box;
+
+}
